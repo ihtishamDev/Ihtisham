@@ -1,22 +1,22 @@
 
-  <!-- LEFT SIDE CONTENT -->
-  <div style="width: 60%;">
-    <h1 style="color:#0a66c2;">Hi there, I'm Ihtisham Ul Haq 👋</h1>
-    <p><strong>🚀 Full Stack Developer Developer | Python & API Specialist</strong></p>  <div " >
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1I-MQa5lEaGWQ2hkFhcwrBXqI3AFaxNHW" alt="Profile" width="300" height="300" >
-  </div>
-    <p>
-      💻 I build scalable backend systems using Django, Flask, and FastAPI.<br>
-      ⚙️ Experienced in RESTful APIs, authentication systems, and modern deployment.<br>
-      🌐 Connect with me: <a href="https://www.linkedin.com/in/ihtisham-ul-haq-shami-a4a265255/">LinkedIn</a><br>
-      📧 Email: <a href="mailto:ahtishamjhn@gmail.com">ahtishamjhn@gmail.com</a><br>
-      🌱 Also work with Next.js and React
-    </p>
-    <p><em>"Code that solves real problems is the best kind of code."</em></p>
-  </div>
+<h1 align="center">Hi 👋, I'm Ihtisham Ul Haq Shami</h1>
+<h3 align="center">Expert in building scalable applications with the Full stack / Mern Stack Development </h3>
 
-  <!-- RIGHT SIDE IMAGE -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="300" height="250" />
 
+- 💻 I build scalable backend systems using Django, Flask, and FastAPI.<br>
+
+- 💬 Ask me about **React, Next.js, Node.js, Blockchain**
+
+- 📫 Reach me at **ahtishamjhn@gmail.com**
+
+- ⚙️ Experienced in RESTful APIs, authentication systems, and modern deployment.<br>
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ihtisham-ul-haq-shami-a4a265255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihtisham-linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shami.__.a/?next=%2Fmdshami.11%2F%3Fhl%3Den&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihtisham-instagram" height="30" width="40" /></a>
+</p>
 
 </div>
 
@@ -42,23 +42,45 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-
-<!-- GITHUB STATS -->
-<h2>📊 GitHub Stats</h2>
-<div style="display:flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" width="48%" />
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" width="60%" />
-
-<br>
-
-<!-- CONTACT SECTION -->
-<h2>📫 Connect with Me</h2>
-<p>
-  <a href="https://www.linkedin.com/in/ihtisham-ul-haq-shami-a4a265255/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ahtishamjhn@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br/>
+<h3 align="left">Tools:</h3>
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a>
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+  </a>
 </p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihtishamDev&show_icons=true&locale=en&layout=compact" alt="ihtisham" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihtishamDev&show_icons=true&locale=en" alt="ihtisham" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihtishamDev&" alt="ihtisham" /></p>
+
+![snake gif](https://raw.githubusercontent.com/ihtishamDev/Ihtisham/main/output/github-snake-dark.svg)
+
+
+
 <p><strong>⭐ Like my work? Give a star to support!</strong></p>
+
