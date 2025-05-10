@@ -78,6 +78,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihtishamDev&show_icons=true&locale=en" alt="ihtisham" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihtishamDev&" alt="ihtisham" /></p>
-
 <p><strong>⭐ Like my work? Give a star to support!</strong></p>
 
