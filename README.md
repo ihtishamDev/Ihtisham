@@ -1,11 +1,10 @@
 
-  <div >
-    <img align="right" src="https://drive.google.com/uc?export=view&id=1I-MQa5lEaGWQ2hkFhcwrBXqI3AFaxNHW" alt="Profile" style="width: 100%; max-width: 120px; border-radius: 50%;">
-  </div>
   <!-- LEFT SIDE CONTENT -->
   <div style="width: 60%;">
     <h1 style="color:#0a66c2;">Hi there, I'm Ihtisham Ul Haq 👋</h1>
-    <p><strong>🚀 Backend Developer | Python & API Specialist</strong></p>
+    <p><strong>🚀 Full Stack Developer Developer | Python & API Specialist</strong></p>  <div " >
+    <img align="right" src="https://drive.google.com/uc?export=view&id=1I-MQa5lEaGWQ2hkFhcwrBXqI3AFaxNHW" alt="Profile" width="300" height="300" >
+  </div>
     <p>
       💻 I build scalable backend systems using Django, Flask, and FastAPI.<br>
       ⚙️ Experienced in RESTful APIs, authentication systems, and modern deployment.<br>
