@@ -78,7 +78,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihtishamDev&" alt="ihtisham" /></p>
 
-![snake gif](https://raw.githubusercontent.com/ihtishamDev/Ihtisham/main/output/github-snake-dark.svg)
+![snake gif](https://github.com/ihtishamDev/Ihtisham/blob/9c271d16f6e419b4ca950511b09f6ed48b82ab78/README.md)
 
 
 
